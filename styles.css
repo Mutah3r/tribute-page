@@ -22,7 +22,8 @@ li {
     background-color: var(--color-secondary);
 }
 
-#title, #sub-title {
+#title,
+#sub-title {
     color: var(--color-primary);
     font-size: 4rem;
     text-align: center;
@@ -107,6 +108,3 @@ li {
 .date {
     font-weight: 900;
 }
-
-
-
